@@ -140,7 +140,7 @@ body {
   background-color: var(--accent-color);
   position: absolute;
   left: 0;
-  bottom: -32px;
+  bottom: -33px;
   /* transform: translateY(100%);
           transition: transform 250ms; */
 }
